@@ -1,4 +1,3 @@
-```markdown
 # Word to HTML/Unicode Converter (PostgreSQL)
 
 This project allows you to convert complex Microsoft Word documents (`.docx`) into clean HTML Unicode strings and store them in a PostgreSQL database using Python.
