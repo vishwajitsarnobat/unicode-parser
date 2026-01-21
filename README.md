@@ -1,5 +1,3 @@
-Here is the complete `README.md` in a single Markdown block.
-
 ```markdown
 # Word to HTML/Unicode Converter (PostgreSQL)
 
