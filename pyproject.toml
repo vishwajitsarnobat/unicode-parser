@@ -1,0 +1,13 @@
+[project]
+name = "unicode-parser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pathlib>=1.0.1",
+    "psycopg2-binary>=2.9.11",
+    "pyodbc>=5.3.0",
+    "pypandoc>=1.16.2",
+    "sqlalchemy>=2.0.45",
+]
